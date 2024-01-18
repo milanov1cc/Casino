@@ -1,0 +1,1 @@
+Ovo mi je ostalo da uradim kako treba: Napisati interaktivni program sa menijem za rad kazina. Na početku programa potrebno je izgraditi kazino korišćenjem konstantnih parametara (bez čitanja s glavnog ulaza). Svi podaci se pamte u memoriji. Projektovati pojedinačne klase izuzetaka za sve nedozvoljene situacije i vršiti obradu izuzetaka na svim mestima gde je to potrebno.
